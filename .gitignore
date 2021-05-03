@@ -1,0 +1,16 @@
+.git/*
+env/
+venv/
+
+__pycache__/
+*.py[cod]
+
+.idea
+.env
+*.env
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+
+db.sqlite3
