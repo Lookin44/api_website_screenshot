@@ -1,2 +1,2 @@
-# api_website_screenshot
+# Api Website Screenshot
 Веб-приложение для сбора скринов сайта по уровням вложенности
